@@ -9,7 +9,7 @@ const HomeScreen = ({ navigation }) => {
 
   return (
     <View style={styles.container}>
-      <Text style={styles.titulo}>Hola!</Text>
+      <Text style={styles.titulo}>¡Hola!</Text>
       <Text style={styles.subTitulo}>¡Explora, Descubre, Disfruta!</Text>
       <Text style={styles.descripcion}>
         Bienvenido a la mejor app para encontrar el plan perfecto para tu día. Descubre eventos emocionantes, desde conciertos vibrantes hasta experiencias culturales únicas. Con nuestra aplicación de búsqueda de eventos, cada día es una oportunidad para vivir momentos inolvidables. ¡Encuentra tu próximo plan y haz que cada día cuente!
